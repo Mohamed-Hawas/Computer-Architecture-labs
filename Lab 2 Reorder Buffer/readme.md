@@ -1,6 +1,6 @@
 # It is required to come up with two different instruction sets (of no less than 5 instructions each)
 
-## case 1 : Strength of ROB
+## Case 1 : Strength of ROB
 
 One that shows the strengths of the reorder buffer technique. That is, show how it could enable multiple, simultaneous execution of different instructions on different functional units.
 
